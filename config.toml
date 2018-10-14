@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "http://sgsa.berkeley.edu/"
 languageCode = "en-us"
 title = "SGSA"
 theme = "hugo-theme-learn"
