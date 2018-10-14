@@ -1,0 +1,13 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "SGSA"
+theme = "hugo-theme-learn"
+
+[params]
+  description = "UC Berkeley Statistics Graduate Student Association"
+  disableSearch = true
+  disableInlineCopyToClipBoard = true
+  copyright = "SGSA"
+  showVisitedLinks = false
+  author = "SGSA"
+  themeVariant = "blue"

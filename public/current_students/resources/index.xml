@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resources on SGSA</title>
+    <link>/current_students/resources/</link>
+    <description>Recent content in Resources on SGSA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 13 Oct 2018 18:33:18 -0700</lastBuildDate>
+    
+	<atom:link href="/current_students/resources/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Conference and other events</title>
+      <link>/current_students/resources/conference/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/current_students/resources/conference/</guid>
+      <description>Conferences The ASA and IMS keep lists of various statistical meetings around the world. Some of the biggest are below.
+Statistics  Joint Statistical Meetings (JSM). Easily the largest statistical conference in the U.S. If it&amp;rsquo;s statistics related it&amp;rsquo;ll be here. International Society for NonParametric Statistics (ISNPS) Atlantic Causal Inference Conference (ACIC) Eastern North American Region Meetings (ENAR). This is a large east coast conference. This is run by International Biometric Society (IBS).</description>
+    </item>
+    
+    <item>
+      <title>Fellowships</title>
+      <link>/current_students/resources/fellowship/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/current_students/resources/fellowship/</guid>
+      <description>TODO</description>
+    </item>
+    
+    <item>
+      <title>Internships</title>
+      <link>/current_students/resources/internship/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/current_students/resources/internship/</guid>
+      <description>TODO</description>
+    </item>
+    
+    <item>
+      <title>Postdocs and Jobs</title>
+      <link>/current_students/resources/jobs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/current_students/resources/jobs/</guid>
+      <description>TODO</description>
+    </item>
+    
+  </channel>
+</rss>
