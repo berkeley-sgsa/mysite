@@ -2,7 +2,6 @@
 title: "SGSA"
 ---
 
-!!!!!SORRY, The website is still underconstruction!!!!!
 # Statistics Graduate Student Association
 # (SGSA)
 

@@ -3,9 +3,6 @@ title: "Achievements"
 date: 2018-10-13
 draft: false
 ---
-## Current academic year
-TODO
-
 ## Previous years
 Rebecca Barter: 2016 Berkeley Institute for Data Science Fellowship
 
