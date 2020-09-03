@@ -1,5 +1,5 @@
 ---
-title: "New and Prospective students"
+title: "New and Prospective Students"
 draft: false
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "SGSA logisitcs"
+title: "SGSA Logistics"
 draft: false
 ---
 

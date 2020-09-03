@@ -1,9 +1,9 @@
 ---
-title: "Current Students"
+title: "COVID-19 Information"
 draft: false
 ---
 
-List of general advice for current students:
+This page is still being updated. 
 
 - [Career advice]({{<ref "/current_students/career.md">}})
 - [Recommended books]({{<ref "/current_students/books.md">}})

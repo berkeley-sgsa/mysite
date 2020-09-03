@@ -2,7 +2,6 @@
 title: "SGSA"
 ---
 
-# Statistics Graduate Student Association
-# (SGSA)
+# <span style="background-color: #ffbf00"> <b> &nbsp;Welcome to Berkeley&nbsp; </b> </span> 
 
-<img src="/img/tshirt2016.jpg" alt="T-shirt from 2016 contest" class="img-center">
+<img src="/img/tshirt2019.jpg" alt="T-shirt from 2019 contest" class="img-center">

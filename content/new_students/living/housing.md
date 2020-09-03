@@ -74,6 +74,8 @@ Some landlords in Berkeley can be rather difficult to deal with. It may be a goo
 
 - [Padmapper](http://padmapper.com/) and [Trulia](https://www.trulia.com/) are similar.
 
+- [Berkeley Home Match](https://retirement.berkeley.edu/services/berkeley-home-match) is a program run by UC Berkeley Retirement Center that connects graduate students with UC retirees with a spare room in their home (The program is on a pause as of June 2020 due to the shelter-in-place order).
+
 ## Case studies
 
 
@@ -96,4 +98,3 @@ Upon deciding to come to Berkeley, I immediately started looking for housing. Sa
 After I decided to move out of I-House, I began the craigslist search and easily found a big 8-bedroom house (don't worry, it has 3.5 bathrooms and a massive kitchen). The house was filled with an eclectic mix of grad students and engineers on the South Side of campus and I currently pay $1068/month. My bedroom is really nice, and very large with bay windows and a walk-in closet! The house is a really fun place to live, and we have an excellent community that respects a mix of hard work and play. Sadly, as of May 2017, all of the original tenants from 6 years ago will have finally graduated and moved out, which means that we lose our rent control and our rent will increase by around 20-30%, bringing it up to current market rates.
 
 Lastly, after reading Kellie's case study... I should really get renter's insurance.
-

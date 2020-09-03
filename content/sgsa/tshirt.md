@@ -6,6 +6,8 @@ draft: false
 The SGSA holds an annual t-shirt design contest and fundraiser.  The department votes on their favorite design.  The winner gets to see their art printed on many shirts and receives eternal glory.
 
 ## Previous winners
+- 2019
+<img src="/img/tshirt2019.jpg" alt="T-shirt from 2019 contest" height="400">
 - 2017
 <img src="/img/tshirt2017.jpg" alt="T-shirt from 2017 contest" height="400">
 - 2016
