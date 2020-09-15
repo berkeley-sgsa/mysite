@@ -24,5 +24,5 @@ Read the Google doc for details (and examples) on the instructions below. (You s
 7. (Push updated output to Github) `git commit` and `push` the updated local directory onto the _berkeley-sgsa.github.io_ repo.
 8. (Push updated input to Github) `git commit` and `push` the updated mysite folder onto the _mysite_ repo.
 
-
+:bulb: Steps 1, 2, 7 and 8 can be performed with a few clicks if you use Github Desktop. Entirely up to you, but just FYI. 
 
