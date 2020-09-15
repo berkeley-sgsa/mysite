@@ -1,12 +1,18 @@
 ---
-title: "Recommended books"
+title: "Recommended texts"
 date: 2018-10-13T18:33:18-07:00
 draft: false
 ---
-## 1. Applied Statistics
-### Categorial Data
-- ''Categorical Data Analysis'' by Alan Agresti.
+## 1. Applied and Theoretical Statistics
+### Categorical Data
+- ''Categorical Data Analysis'' by Alan Agresti
 </br>*Well-written, go-to reference for all things involving categorical data.*
+
+### Causal Inference
+</br>*More information available through the causal inference reading group and online seminar*
+
+### Compositional Data
+- ''Compositional Data Analysis'' by Pawlowsky-Glahn and Buccianti
 
 ### Linear models
 - ''Generalized Linear Models'' by McCullagh and Nelder
@@ -17,26 +23,40 @@ draft: false
 </br>*Undergraduate-level textbook, has been used previously as a textbook for Stat 151A. Appropriate for beginners to R who would like to learn how to use linear models in practice. Does not cover GLMs.*
 
 ### Experimental Design
-- ''Design of Comparative Experiments'' by RA Bailey
+- ''Design of Comparative Experiments'' by Rosemary A Bailey
 </br>*Classic, approachable text, free for download [here](http://www.maths.qmul.ac.uk/~rab/DOEbook/)*
 
-### Machine Learning
-- ''The Elements of Statistical Learning'' by Hastie, Tibshirani, and Friedman.
+### Machine Learning (see also Probabilistic Modeling and Sampling)
+- ''The Elements of Statistical Learning'' by Hastie, Tibshirani, and Friedman
 </br>*Comprehensive but superficial coverage of all modern machine learning techniques for handling data. Introduces PCA, EM algorithm, k-means/hierarchical clustering, boosting, classification and regression trees, random forest, neural networks, etc. ...the list goes on. Download the book [here](http://www-stat.stanford.edu/~tibs/ElemStatLearn/).*
 - ''Computer Age Statistical Inference: Algorithms, Evidence, and Data Science'' by Hastie and Efron.
-- ''Pattern Recognition and Machine Learning'' by Bishop.
-- ''Bayesian Reasoning and Machine Learning'' by Barber.
+- ''Pattern Recognition and Machine Learning'' by Bishop
+- ''Bayesian Reasoning and Machine Learning'' by Barber
 </br>*Available [online](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage)*.
-- ''Probabilistic Graphical Models'' by Koller and Friedman.
+- ''Probabilistic Graphical Models'' by Koller and Friedman
+- ''Deep Learning'' by Goodfellow, Bengio and Courville
 
-### Theoretical Statistics
+### Multiple Testing, Post-Selection Inference and Selective Inference
+- ''Multiple Comparisons: theory and methods'' by Jason Hsu
+</br>*One of many sources in this field of research. Most of the literature comes from research papers.*
+
+</br>*More information available through online seminar.*
+
+### Probabilistic Modeling and Sampling (see also Machine Learning)
+- ''Monte Carlo Statistical Methods'' by Robert and Casella
+</br>*A comprehensive text on sampling approaches.*
+- ''Handbook of Approximate Bayesian Computation'' by Sisson, Fan and Beaumont
+- ''Graphical Models, Exponential Families, and Variational Inference'' by Wainwright and Jordan
+</br>*Assuming knowledge at the level of Stat 210AB, elucidates how exponential families can be used in large-scale and interpretable probabilistic modeling.*
+
+### Theory and Foundations
 - ''Theoretical Statistics: Topics for a Core Course'' by Keener
 </br>*The primary text for Stat 210A. Download from [SpringerLink](http://link.springer.com/book/10.1007%2F978-0-387-93839-4).*
 - ''Theory of Point Estimation'' by Lehmann and Casella
 </br>*A good reference for Stat 210A.*
 - ''Testing Statistical Hypotheses'' by Lehmann and Romano
 </br>*A good reference for Stat 210A.*
-''Empirical Processes in M-Estimation'' by van de Geer
+- ''Empirical Processes in M-Estimation'' by van de Geer
 </br>*Some students find this helpful to supplement the material in 210B.*
 
 
@@ -103,15 +123,20 @@ These are indispensable tools of probability. Some nice references are
 </br>*There's also a course on combinatorics this semester in the math department called Math249: Algebraic Combinatorics. Despite the scary "algebraic" prefix it's really fun. Download [here](http://www-math.mit.edu/~rstan/ec/).*
 
 ## 4. Computational Biology
+
+### 'Big Picture' Overview
+- ''Modern Statistics for Modern Biology'' by Susan Holmes and Wolfgang Huber
+</br>*Accessible 'data analysis'-focused overview of the field, with numerous motivating examples and plentiful opportunities for hands-on practice. Although written for biologists, can indirectly help with developing an understanding of how to identify problems that impact on biology.*
+
 ### Bioinformatics
 - ''Statistical Methods in Bioinformatics'' by Ewens and Grant
 </br>*Great overview of sequencing technology for the unacquainted.*
-- ''Computational Genome Analysis: An Introduction'' by Deonier, Tavare, and Waterman
+- ''Computational Genome Analysis: An Introduction'' by Deonier, Tavaré, and Waterman
 </br>*Great R code examples from computational biology. Discusses the basics, such as the greedy algorithm, etc.*
 
 ### Population Genetics
--''Probability Models for DNA Sequence Evolution'' by Durrett
-- ''Mathematical Population Genetics'' by Ewens
+- ''Probability Models for DNA Sequence Evolution'' by Rick Durrett
+- ''Mathematical Population Genetics'' by Warren Ewens
 
 
 ## 5. Computer Science
