@@ -54,7 +54,7 @@ There are computing/data analysis assignments as well as readings; sometimes the
 
 ### Other Regular Courses
 
-STAT 238 Bayesian Statistics
+STAT 238 Bayesian Statistics 
 
 STAT C239A and C239B The Statistics of Causal Inference in the Social Science
 
@@ -102,6 +102,19 @@ The math department in particular offers a wide variety of courses, many of whic
 
 
 Some students, particularly those interested in machine learning, also take courses in the computer science department, which offers a broad array of regular standard classes and advanced topics classes. More information here.
+
+### Applied and Interdisciplinary Courses 
+
+The increase in interdisciplinary research involving statistics has led to a rise in contact between neighbouring disciplines. Some students may be more interested in pursuing this line of work. Here are some courses not listed solely under the Department, which are occasionally taught by Berkeley Statistics faculty or faculty applying statistical ideas to their research.
+
+BIOSTATISTICS, COMPUTATIONAL BIOLOGY, AND MEDICINE
+
+DEMOGRAPHY
+
+EECS
+
+PUBLIC POLICY
+
 
 ## Seminars
 
