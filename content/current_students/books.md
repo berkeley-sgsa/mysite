@@ -56,10 +56,11 @@ draft: false
 </br>*A good reference for Stat 210A.*
 - ''Testing Statistical Hypotheses'' by Lehmann and Romano
 </br>*A good reference for Stat 210A.*
-- ''Concentration Inequalities'' by Boucheron, Lugosi, and Massart
-</br>*Some students find this helpful to supplement the material in 210B.*
 - ''Empirical Processes in M-Estimation'' by van de Geer
-</br>*This was a useful supplement for older iterations of Stat 210B.*
+- </br>*Some students find this helpful to supplement the material in 210B.*
+- ''Concentration Inequalities'' by Boucheron, Lugosi, and Massart
+</br>*This is also useful to supplement 210B material.*
+
 
 
 ## 2. Probability
