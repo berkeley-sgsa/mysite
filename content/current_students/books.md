@@ -11,6 +11,9 @@ draft: false
 ### Causal Inference
 </br>*More information available through the causal inference reading group and online seminar*
 
+### Communicating with Data
+- ''Communicating with Data The Art of Writing for Data Science'' by Deborah Nolan and Sara Stoudt
+
 ### Compositional Data
 - ''Compositional Data Analysis'' by Pawlowsky-Glahn and Buccianti
 
@@ -151,4 +154,3 @@ These are indispensable tools of probability. Some nice references are
 - ''Introduction to Algorithms'', Third Edition, by Cormen, Leiserson, Rivest, and Stein.
 </br>*MIT OpenCourseWare 6.046J / 18.410J ''Introduction to Algorithms'' (SMA 5503) was taught by one of the authors, Prof. Charles Leiserson, in 2005. This is an undergraduate course and this book was used as the textbook*
 - ''Algorithm Design'', by Jon Kleinberg and Éva Tardos.
-
