@@ -9,7 +9,7 @@ draft: false
 </br>*Well-written, go-to reference for all things involving categorical data.*
 
 ### Causal Inference
-</br>*More information available through the causal inference reading group and online seminar*
+</br>*More information available through the causal inference reading group and [online seminar](https://sites.google.com/view/ocis/)*
 
 ### Communicating with Data
 - ''Communicating with Data The Art of Writing for Data Science'' by Deborah Nolan and Sara Stoudt
@@ -43,7 +43,7 @@ draft: false
 - ''Multiple Comparisons: theory and methods'' by Jason Hsu
 </br>*One of many sources in this field of research. Most of the literature comes from research papers.*
 
-</br>*More information available through online seminar.*
+</br>*More information available through [online seminar](https://www.selectiveinferenceseminar.com/).*
 
 ### Probabilistic Modeling and Sampling (see also Machine Learning)
 - ''Monte Carlo Statistical Methods'' by Robert and Casella
@@ -56,9 +56,9 @@ draft: false
 - ''Theoretical Statistics: Topics for a Core Course'' by Keener
 </br>*The primary text for Stat 210A. Download from [SpringerLink](http://link.springer.com/book/10.1007%2F978-0-387-93839-4).*
 - ''Theory of Point Estimation'' by Lehmann and Casella
-</br>*A good reference for Stat 210A.*
+</br>*A good reference for Stat 210A, covering estimation.*
 - ''Testing Statistical Hypotheses'' by Lehmann and Romano
-</br>*A good reference for Stat 210A.*
+</br>*A more advanced reference for Stat 210A, convering testing and a litany of related concepts.*
 - ''Empirical Processes in M-Estimation'' by van de Geer
 - </br>*Some students find this helpful to supplement the material in 210B.*
 - ''Concentration Inequalities'' by Boucheron, Lugosi, and Massart
