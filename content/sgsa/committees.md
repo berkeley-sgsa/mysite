@@ -5,68 +5,74 @@ draft: false
 
 ## Officers
 
-#### Co-Presidents: Bryan and Eli
+#### Co-Presidents
+
+- Usually 3rd year
 - Serve as liaisons between graduate students and the department faculty and staff
 - Keep the committees on track to fulfill their responsibilities
 - Chair officer meetings
+- Can tell you who is on which commitee
 
-#### Treasurer: Briton and Ryan T.
-Support: --
+#### Treasurer
 
 - Manage SGSA bank account
 - Handle reimbursements for SGSA
 - Arrange for funding from industry contacts
 
-#### Graduate Assembly (GA) Delegate: Jake C. and Benji
-Alternate GA Delegate: --
+#### Graduate Assembly (GA) Delegate
 
-- Attend monthly GA meetings
+- Attend monthly GA meetings (free food!)
 - File paperwork for GA funding at the beginning of each semester
-- Keep SGSA updated on GA happenings
+- Keep graduate students updated on GA happenings
+
+#### Graduate Assembly (GA) Alternate
+
+- In line to be delegate next year
+- Attends meetings if Delegate cannot
 
 ## Committees
 
 #### Student Seminar Committee
-Head: Joe, Billy, Lihua, Olivia
-Support:  --
 
 - Organize student seminars
 - Organize grad student talks at Berkeley-Stanford and Berkeley-Davis Colloquia
 
-#### Internal Social Committee
-Head: Frank, Zoe, Michael
-Support: --
+#### Social Committee
 
-- Organize weekly Friday wind-downs
-- Host foosball tournaments each semester
+- Mostly, organize weekly Friday wind-downs
+	- One foosball tournament each semester
+	- Yearly lunar new year potluck
 - Organize one-off social events for special occasions (e.g. Pi day)
 - Run T-shirt design contest
 
-#### External Social (Party) Committee
-Head: Feynman, Xiao, Zoe, Jake Soloff, Dan, Tiffany, Ella
-Support: --
+#### Party Committee
+
 - Organize Fall Party and Spring Picnic
+- Do basically nothing else
 
 #### Hospitality Committee
-Head: Hue, Joe, Koulik, Taejoo
-Support: --
 
-- Attend the weekly Freedman lunch
-- Welcome Neyman seminar speakers and faculty candidates at weekly lunch
+- Attend the weekly Freedman lunch (before Covid)
+- Welcome Neyman seminar speakers and faculty candidates at weekly lunch (before Covd)
 - Match up prospective/incoming grad students with current grad mentors
 - Organize the Visit Day happy hour
 
 #### Diversity Committee
-Head: Jake Soloff, Olivia, Amanda, Jake Spertus
 
-- Organize the fall and spring women's lunches
-- Host the annual gender issues discussion
+- Plan and host various diversity intiaitives, including:
+	- Graduate sharing circles
+	- Outreach panels
+	- Book club
+	- women's lunches
+	- gender issues discussion
+- Collaborate with faculty on diversity initiatives and provide input
 
 #### Web Committee
-Head: Yuansi, Miyabi, Alan, Michelle
 
-- Maintain and organize the SGSA site (and files, e.g. pictures, on wiki)
-- Maintain the SGSA Google calendar
-- Maintain the SGSA Facebook page
-- Pursue other committees to contribute content to the wiki
-- Maintain wiki page with advice on what incoming students need to do and whom they need to contact to do it
+- Hi! 
+- Join us, we don't do a whole lot
+- Maintain and organize the SGSA site (and files, e.g. pictures)
+	- Maintain the SGSA Google calendar (do we do this anymore?)
+	- Maintain the SGSA Facebook page (not sure we do this either?)
+	- Pursue other committees to contribute content
+	- Maintain pages with advice on what incoming students need to do and whom they need to contact to do it
